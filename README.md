@@ -1,8 +1,5 @@
 ## ✌️ Welcome To the official account of HDEV TECH Ltd
 
-<!-- ROADMAP -->
-## Welcome to Developer's Profile of Rwanda's First Open Sourcerer
-
 ### Work until it Happens!
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=hdevtech&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdevtech&show_icons=true&theme=radical)
