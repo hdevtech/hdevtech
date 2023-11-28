@@ -1,15 +1,22 @@
 ## ✌️ Welcome To the official account of HDEV TECH Ltd
-- Managed By : IZERE HIRWA Roger
-- infor@hdev.rw / roger@hdev.rw
-- +250788788291 / +250785569911
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hdevtechltd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hdevtechltd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hdevtechltd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hdevtechltd) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hdevtech&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hdevtech&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hdevtech&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+<!-- ROADMAP -->
+## Welcome to Developer's Profile of Rwanda's First Open Sourcerer
+
+### Work until it Happens!
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=hdevtech&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdevtech&show_icons=true&theme=radical)
+
+
+
+
+> Contact us:
+```
+- Managed By : IZERE HIRWA Roger
+- Email : info@hdev.rw / roger@hdev.rw
+- Phone number : +250788788291 / +250785569911
+```
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
