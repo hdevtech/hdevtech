@@ -1,4 +1,4 @@
-## ✌️ Welcome To the official account of HDEV TECH Ltd
+## ✌️ Welcome To the official account of IZERE HIRWA Roger
 
 ### Work until it Happens!
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=hdevtech&theme=radical)
@@ -10,8 +10,8 @@
 > Contact us:
 ```
 - Managed By : IZERE HIRWA Roger
-- Email : info@hdev.rw / roger@hdev.rw
-- Phone number : +250788788291 / +250785569911
+- Email : hirwaroger@itec.rw
+- Phone number : +250798760888
 ```
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
